@@ -78,7 +78,7 @@ Gyan Ganga Institute of Technology and Sciences, Jabalpur
 
 <p align="left">
 
-<a href="https://linkedin.com/in/ashutosh-dubey" target="_blank">
+<a href="https://www.linkedin.com/in/ashutosh-dubey-32588321a" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 
@@ -86,7 +86,7 @@ Gyan Ganga Institute of Technology and Sciences, Jabalpur
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
 </a>
 
-<a href="https://leetcode.com/Ashutosh-20" target="_blank">
+<a href="https://leetcode.com/u/Ashutosh-20" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
 </a>
 
