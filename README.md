@@ -14,8 +14,6 @@ I also work on frontend development, React-based UI systems, and scalable JavaSc
 
 ## Skills
 
-### Core Technical Skills
-
 * **Languages:** JavaScript, Python, SQL, HTML5, SCSS
 * **Frameworks & Libraries:** React.js, Node.js, Express.js, MongoDB, GSAP, ThreeJS
 * **Tools:** Git, GitHub, VS Code, MySQL, Linux, PowerBI, Figma, Blender, Scale AI, Evidently AI
@@ -77,19 +75,5 @@ Gyan Ganga Institute of Technology and Sciences, Jabalpur
 ## Connect With Me
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/ashutosh-dubey-32588321a" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-
-<a href="https://github.com/Ashutosh-020" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
-</a>
-
-<a href="https://leetcode.com/u/Ashutosh-20" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
-
+<a href="https://www.linkedin.com/in/ashutosh-dubey-32588321a"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a><a href="https://github.com/Ashutosh-020"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a><a href="https://leetcode.com/u/Ashutosh-20"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
 </p>
-
----
