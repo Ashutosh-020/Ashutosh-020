@@ -68,9 +68,9 @@ A modular, hook-driven React framework enabling dynamic layouts (table, grid, ca
 
 ## Education
 
-**B.Tech – Computer Science and Engineering**
+**B.Tech - Computer Science and Engineering**
 Gyan Ganga Institute of Technology and Sciences, Jabalpur
-2022–2026 | GPA: 7.3
+2022-2026 | GPA: 7.3
 
 ---
 
