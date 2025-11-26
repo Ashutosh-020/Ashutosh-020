@@ -25,9 +25,9 @@ I also work on frontend development, React-based UI systems, and scalable JavaSc
 
 ## Experience
 
-### **Generative AI Trainer & Prompt Evaluator — Outlier.ai**
+### **Generative AI Trainer & Prompt Evaluator - Outlier.ai**
 
-**Feb 2024 – Apr 2025**
+**Feb 2024 - Apr 2025**
 Worked on multilingual prompt engineering, annotation workflows, and LLM performance evaluation.
 
 **Highlights**
@@ -50,7 +50,7 @@ Worked on multilingual prompt engineering, annotation workflows, and LLM perform
 
 ## Featured Projects
 
-### **1. LedgerLens – Financial Tracking Dashboard**
+### **1. LedgerLens - Financial Tracking Dashboard**
 
 A responsive financial management dashboard featuring income/expense tracking, savings goals, visual analytics, and real-time financial updates.
 **Tech:** JavaScript, React.js, Node.js, Firebase Auth, Tailwind CSS, MongoDB
@@ -58,7 +58,7 @@ A responsive financial management dashboard featuring income/expense tracking, s
 
 ---
 
-### **2. HookLayout / RouteFlow / PageWeave – React Hybrid Page Rendering Framework**
+### **2. HookLayout / RouteFlow / PageWeave - React Hybrid Page Rendering Framework**
 
 A modular, hook-driven React framework enabling dynamic layouts (table, grid, card) with metadata-based routing and improved scalability for dashboards and CMS systems.
 **Tech:** React.js, JavaScript
