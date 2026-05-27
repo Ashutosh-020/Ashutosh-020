@@ -39,6 +39,7 @@ Currently exploring:
 - Tailwind CSS
 - GSAP
 - Three.js
+- Shadcn
 
 ### Backend & Database
 - Node.js
@@ -72,10 +73,10 @@ Currently exploring:
 
 ## Featured Projects
 
-### 🚀 Cognitic :  AI-Powered Meeting Insight & Project Management Workflow Automation Platform | LINK
+### 🚀 Cognitic :  AI-Powered Meeting Insight & Project Management Workflow Automation Platform 
 
 **Tech Stack:**  
-`Next.js 16`, `React 19`, `TypeScript`, `Prisma ORM`, `Neon PostgreSQL`, `Pinecone`, `Google Gemini AI`, `AWS Lambda`, `AWS S3`, `Clerk`, `Stripe`, `Svix`, `Resend`, `Slack Bolt SDK`
+`Next.js 16` `React 19` `TypeScript` `Tailwind` `Shadcn` `Prisma ORM` `Neon PostgreSQL` `Pinecone` `Google Gemini AI` `AWS Lambda` `AWS S3` `MeetingBaas` `Clerk` `Stripe` `Svix` `Resend` `Jira` `Asana` `Trello` `Slack`
 
 - Built a scalable AI-powered SaaS platform enabling automated meeting recording up to **2-hours**, speaker-labeled transcription, AI-generated summaries, and semantic knowledge retrieval for collaborative teams using serverless cloud architecture.
 
@@ -105,7 +106,7 @@ A responsive finance dashboard for tracking income, expenses, savings, and inves
 - Responsive mobile-friendly UI
 
 #### Tech Stack
-`React.js` `JavaScript` `Tailwind CSS` `Firebase` `MongoDB`
+`React.js` `TypeScript` `Tailwind CSS` `Firebase`
 
 #### Contribution
 - Built reusable React components and custom hooks
@@ -126,7 +127,7 @@ A browser-based Figma-inspired design editor built completely using Vanilla Java
 - Persistent LocalStorage-based project saving
 
 #### Tech Stack
-`HTML5` `CSS3` `JavaScript`
+`HTML5` `SCSS` `CSS3`  `JavaScript`
 
 #### Highlights
 - Built without frameworks, Canvas, or SVG
@@ -140,7 +141,7 @@ A browser-based Figma-inspired design editor built completely using Vanilla Java
 ### 🎓 B.Tech - Computer Science & Engineering
 **Gyan Ganga Institute of Technology and Sciences, Jabalpur**  
 2022 – 2026  
-**GPA:** 7.54
+**GPA:** 7.6
 
 ---
 
