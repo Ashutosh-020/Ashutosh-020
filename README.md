@@ -28,14 +28,25 @@ Currently exploring:
 
 ## Skills
 
-### Frontend
-`React.js` `Next.js` `JavaScript` `TypeScript` `HTML5` `CSS3` `SCSS` `Tailwind CSS` `GSAP` `Three.js` `Shadcn`
+- Frontend
 
-### Backend & Database
-`Node.js` `Express.js` `MongoDB` `SQL` `PostgreSQL` `Prisma ORM` `NeonDB` `Pinecone`
+  `React.js` `Next.js` `JavaScript` `TypeScript` `HTML5` `CSS3` `SCSS` `Tailwind CSS` `GSAP` `Three.js` `Shadcn/UI`
 
-### Tools & Platforms
-`Git & GitHub` `AWS` `VS Code` `Linux` `RAG` `LangChain` `LangGraph` `PowerBI` `Postman` `Jest` `Cursor` `Claude Code` `Docker` `Svix` `Blender` `Firebase` `Clerk Auth` `Stripe` 
+- Backend & Cloud
+
+  `Node.js` `Express.js` `AWS` `Linux`
+
+- Database
+
+  `MongoDB` `PostgreSQL` `SQL` `DBMS` `Prisma ORM` `NeonDB` `PineconeDB`
+
+- AI & Data Tools
+
+  `LangChain` `LangGraph` `RAG Systems` `Power BI`
+
+- Other Tools & Platforms
+
+  `Git` `GitHub` `VS Code` `Cursor` `Claude Code` `Postman` `Jest` `Docker` `Firebase` `Clerk Auth` `Stripe` `Svix` `Figma` `Blender`
 
 ---
 
