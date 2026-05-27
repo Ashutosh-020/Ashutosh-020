@@ -29,45 +29,13 @@ Currently exploring:
 ## Skills
 
 ### Frontend
-- React.js
-- Next.js
-- JavaScript
-- TypeScript
-- HTML5
-- CSS3
-- SCSS
-- Tailwind CSS
-- GSAP
-- Three.js
-- Shadcn
+`React.js` `Next.js` `JavaScript` `TypeScript` `HTML5` `CSS3` `SCSS` `Tailwind CSS` `GSAP` `Three.js` `Shadcn`
 
 ### Backend & Database
-- Node.js
-- Express.js
-- MongoDB
-- SQL
-- PostgreSQL
-- Prisma ORM
-- NeonDB
-- Pinecone
+`Node.js` `Express.js` `MongoDB` `SQL` `PostgreSQL` `Prisma ORM` `NeonDB` `Pinecone`
 
 ### Tools & Platforms
-- Git & GitHub
-- AWS S3
-- VS Code
-- Linux
-- PowerBI
-- Figma
-- Blender
-- Firebase
-- Clerk Auth
-- Stripe
-
-### Soft Skills
-- Teamwork
-- Leadership
-- Management
-- Problem Solving
+`Git & GitHub` `AWS` `VS Code` `Linux` `RAG` `LangChain` `LangGraph` `PowerBI` `Postman` `Jest` `Cursor` `Claude Code` `Docker` `Svix` `Blender` `Firebase` `Clerk Auth` `Stripe` 
 
 ---
 
@@ -127,7 +95,7 @@ A browser-based Figma-inspired design editor built completely using Vanilla Java
 - Persistent LocalStorage-based project saving
 
 #### Tech Stack
-`HTML5` `SCSS` `CSS3`  `JavaScript`
+`HTML5` `SCSS` `CSS3` `JavaScript`
 
 #### Highlights
 - Built without frameworks, Canvas, or SVG
